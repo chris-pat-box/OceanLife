@@ -13,6 +13,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>OceanLifeWebApp</name>
 	<description>Application for Renting a Pet</description>
+	<packaging>war</packaging>
 
 	<properties>
 		<java.version>8</java.version>
