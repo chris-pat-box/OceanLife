@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.oceanic.app</groupId>
 	<artifactId>OceanLifeWebApp</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0</version>
 	<name>OceanLifeWebApp</name>
 	<description>Application for Renting a Pet</description>
 	<packaging>war</packaging>
